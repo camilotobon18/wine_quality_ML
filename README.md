@@ -36,8 +36,8 @@ Lenguaje de programación y librerías utilizadas en el desarrollo del proyecto
 
 ## Autores<a name="id_autores"></a>
 
-* Alejandro Velásquez Arango - [Perfil de GitHub](https://github.com/alejo963)
-* Camilo Andrés Tobón Florez - [Perfil de GitHub](https://github.com/camilotobon18)
+* Alejandro Velásquez Arango - [Perfil de GitHub](https://github.com/alejo963) - [Perfil de LinkedIn](https://www.linkedin.com/in/alejandro-velasquez-arango-984bb71b2/)
+* Camilo Andrés Tobón Florez - [Perfil de GitHub](https://github.com/camilotobon18) - [Perfil de LinkedIn](www.linkedin.com/in/camilo-andrés-tobón-florez-4390851ba)
 
 ## Creditos<a name="id_creditos"></a>
 

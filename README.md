@@ -4,6 +4,7 @@ El proyecto se planteo con la finalidad de predecir la calidad de vinos rojos y 
 Las etapas del proyecto se dividen de la siguiente manera: preprocesamiento, entrenamiento & selección de modelos y evaluación.
 
 **Índice**  
+
 [Instalación](#id_instalacion)  
 [Tecnologías usadas](#id_tecnologias)  
 [Autores](#id_autores)  

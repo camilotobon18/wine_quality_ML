@@ -3,10 +3,10 @@ El proyecto se planteo con la finalidad de predecir la calidad de vinos rojos y 
 
 Las etapas del proyecto se dividen de la siguiente manera: preprocesamiento, entrenamiento & selección de modelos y evaluación.
 
-**Índice**
-[Instalación](#id_instalacion)
-[Tecnologías usadas](#id_tecnologias)
-[Autores](#id_autores)
+**Índice**\n
+[Instalación](#id_instalacion)\n
+[Tecnologías usadas](#id_tecnologias)\n
+[Autores](#id_autores)\n
 [Creditos](#id_creditos)
 
 ## Instalación<a name="id_instalacion"></a>
@@ -35,8 +35,8 @@ Lenguaje de programación y librerías utilizadas en el desarrollo del proyecto
 
 ## Autores<a name="id_autores"></a>
 
-Alejandro Velásquez Arango - [Perfil de GitHub]()
-Camilo Andrés Tobón Florez - [Perfil de GitHub](https://github.com/camilotobon18)
+* Alejandro Velásquez Arango - [Perfil de GitHub]()
+* Camilo Andrés Tobón Florez - [Perfil de GitHub](https://github.com/camilotobon18)
 
 ## Creditos<a name="id_creditos"></a>
 

@@ -30,8 +30,8 @@ Se implementaron modelos de aprendiza supervisado de regresión, clasificación 
 git clone https://github.com/camilotobon18/wine_quality_ML/
 ```
 3. Abrir el sistema de gestión de paquetes `Anaconda`
-4. Dentro de `Anaconda` abrir la aplicación `Jupyter Notebook` Donde se encuentra
-5. Buscar la carpeta del proyecto y abrir el archivo `.ipynb`
+4. Dentro de `Anaconda` abrir la aplicación `Jupyter Notebook`
+5. Buscar la carpeta del proyecto y abrir los archivos con extensión `.ipynb`
 6. En la pestaña `Kernel` seleccionar la opción `Restart & Run All`
 
 ## Tecnologías usadas<a name="id_tecnologias"></a>

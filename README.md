@@ -10,6 +10,17 @@ Las etapas del proyecto se dividen de la siguiente manera: preprocesamiento, ent
 [Autores](#id_autores)  
 [Creditos](#id_creditos)
 
+## Archivos
+•	winequality-red.csv: Dataset con las propiedades fisicoquímicas y puntajes de calidad de muestras de vinos rojos.
+•	winequality-white.csv: Dataset con las propiedades fisicoquímicas y puntajes de calidad de muestras de vinos blancos.
+•	Exploración.ipynb: Notebook que contiene una exploración básica de los datasets como boxplots y matrices de correlación.
+•	Classif_red.ipynb: Notebook que contiene todos los modelos de clasificación entrenados para el dataset de vinos rojos, con sus respectivas métricas de error y matrices de confusión.
+•	Classif_white.ipynb: Notebook que contiene todos los modelos de clasificación entrenados para el dataset de vinos blancos, con sus respectivas métricas de error y matrices de confusión.
+•	Regg_red.ipynb: Notebook que contiene todos los modelos de regresión entrenados para el dataset de vinos rojos, con sus respectivas métricas de error.
+•	Regg_white.ipynb: Notebook que contiene todos los modelos de regresión entrenados para el dataset de vinos blancos, con sus respectivas métricas de error.
+•	Conclusiones.ipynb: Notebook que explica los mejores modelos y donde se selecciona el modelo final.
+
+
 ## Instalación<a name="id_instalacion"></a>
 1. En la pagina inicial del repositorio de GitHub seleccionar la pestaña `Code` y presionar la opción `Download ZIP` ó
 2. Clonar el repositorio utilizando la consola de comandos de GIT

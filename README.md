@@ -11,7 +11,7 @@ Las etapas del proyecto se dividen de la siguiente manera: preprocesamiento, ent
 [Creditos](#id_creditos)
 
 ## Archivos
-1.	winequality-red.csv: Dataset con las propiedades fisicoquímicas y puntajes de calidad de muestras de vinos rojos.
+1.	*winequality-red.csv:* Dataset con las propiedades fisicoquímicas y puntajes de calidad de muestras de vinos rojos.
 1.	winequality-white.csv: Dataset con las propiedades fisicoquímicas y puntajes de calidad de muestras de vinos blancos.
 1.	Exploración.ipynb: Notebook que contiene una exploración básica de los datasets como boxplots y matrices de correlación.
 1.	Classif_red.ipynb: Notebook que contiene todos los modelos de clasificación entrenados para el dataset de vinos rojos, con sus respectivas métricas de error y matrices de confusión.
